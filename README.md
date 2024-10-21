@@ -21,3 +21,4 @@ $ docker exec -it terraform ash
 ```
 # terraform apply
 ```
+![image](https://github.com/user-attachments/assets/9f53d2b9-9570-4962-85bd-76ca3932f1d6)
